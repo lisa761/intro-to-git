@@ -16,3 +16,7 @@ merge branch:
 git merge <branch_name>
 usually you want to merge things to master therefore the branch_name here is that of the new features branch whose
 features would be added to the master.
+
+delete a branch:
+git branch -d <branch_name>
+flag d is for delete
