@@ -11,3 +11,8 @@ here b flag is to denote its going to be a new branch (or so I think)
 
 switch branch:
 git checkout <branch_name>
+
+merge branch:
+git merge <branch_name>
+usually you want to merge things to master therefore the branch_name here is that of the new features branch whose
+features would be added to the master.
